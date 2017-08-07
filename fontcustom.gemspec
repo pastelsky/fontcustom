@@ -20,7 +20,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency "json", "~>1.4"
   gem.add_dependency "thor", "~>0.14"
-  gem.add_dependency "listen", ">=1.0","<4.0"
+  gem.add_dependency "listen", ">=1.0","<2.1.1"
 
   gem.add_development_dependency "rake", "~> 10"
   gem.add_development_dependency "bundler"
